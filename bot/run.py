@@ -25,5 +25,4 @@ async def on_message(message):
         # print(message.channel.parent)
     logs.log_message(message)
 
-
-client.run(getenv('token'))
+client.run(getenv('TOKEN'))

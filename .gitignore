@@ -2,3 +2,4 @@
 true-logs.iml
 venv
 openvenv.bat
+openvenv.sh
